@@ -229,7 +229,7 @@ export function Founder() {
                     viewport={{ once: true }}
                     transition={{ delay: 0.5 }}
                   >
-                    Google Certified UX Professional & Front-end Developer
+                    Google Certified UX Professional & Full Stack Developer
                   </motion.p>
                   
                   <motion.p 
